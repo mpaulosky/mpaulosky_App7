@@ -3,7 +3,7 @@ using System.Text.Json;
 
 using BlogApp.Components.Account.Pages;
 using BlogApp.Components.Account.Pages.Manage;
-using BlogApp.Data;
+using BlogApp.Data.Models;
 
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Components.Authorization;

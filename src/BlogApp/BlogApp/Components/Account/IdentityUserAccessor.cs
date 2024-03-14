@@ -1,4 +1,4 @@
-using BlogApp.Data;
+using BlogApp.Data.Models;
 
 using Microsoft.AspNetCore.Identity;
 

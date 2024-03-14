@@ -9,6 +9,8 @@
 
 global using System.Diagnostics.CodeAnalysis;
 
+global using BlogApp.Components.Account;
+
 global using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 global using Microsoft.EntityFrameworkCore;
 
